@@ -1,6 +1,7 @@
 ### IntelliJ IDEA ###
 Lab1/*
 !Lab1/src/
+!Lab1/src/**
 
 out/
 !**/src/main/**/out/
